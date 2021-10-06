@@ -67,5 +67,5 @@ Then to run the analysis:
 
 # Side Notes:
   
-## If you use the headless analyzer, after you have an existing project, instead of the -import, you can change it to -process, otherwise there will be an error and say it couldn't import because it is existing.
+If you use the headless analyzer, after you have an existing project, instead of the -import, you can change it to -process, otherwise there will be an error and say it couldn't import because it is existing.
 
